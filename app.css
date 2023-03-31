@@ -1,0 +1,12 @@
+calculator {
+    background-color: #282c34;
+    color: white;
+    padding: 40px;
+    font-family: Sans-Serif;
+    text-align: center;
+  }
+  buttons {
+    box-sizing: border-box;
+    align-items: center;
+  }
+  
